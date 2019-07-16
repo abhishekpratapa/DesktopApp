@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.AppDraggableBar{
+  -webkit-app-region: drag;
+  position: fixed;
+  width: 100vw;
+  height: 35px;
+}
